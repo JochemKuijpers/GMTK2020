@@ -3,13 +3,10 @@ assets:
       - "?sprite0 | GMSprite | e017e908-5087-4d45-beb6-9de73e67f9b0 | 24e08cde-5003-40a9-bcb6-3f9632323bb7"
       - "?dsafdsafds | GMSprite | 1a95a0f8-2ca2-4324-89e7-9e8188e5c1f0 | f0d3482b-7c1b-404f-ac15-8c0afc55989c"
   - "tilesets | GMTileSet | 67399bbd-8b94-44bf-a66e-90d48dcc0225 | dad1c419-f209-4f47-ae6b-985085dcf354": []
-  - "sounds | GMSound | bb1a94e8-54a3-4247-a5a1-6477c917ca4b | 0cad2b05-8ca9-412a-845b-01336431e800": 
-      - "?sound0 | GMSound | fefe544d-9f06-47d4-aa16-39334b8a110e | e2a07877-7fcb-4e27-a1d6-05a301a76332"
-  - "paths | GMPath | f74e4146-8836-4f95-b7c0-7f1f95defb4d | 6b5769d2-133c-4a97-92fd-52b48653c519": 
-      - "?path0 | GMPath | 594d01bf-6b2c-4dd7-a164-c13bb703a88f | ffd45cca-287b-4baf-8bf6-dc3364643cee"
+  - "sounds | GMSound | bb1a94e8-54a3-4247-a5a1-6477c917ca4b | 0cad2b05-8ca9-412a-845b-01336431e800": []
+  - "paths | GMPath | f74e4146-8836-4f95-b7c0-7f1f95defb4d | 6b5769d2-133c-4a97-92fd-52b48653c519": []
   - "scripts | GMScript | 3d72e6e6-f219-46c3-999c-e6ff510f6b14 | ec262a0b-d42c-49f1-ae11-f5565754916c": []
-  - "shaders | GMShader | 03fb296d-e804-4c65-8a06-85322b11e463 | 0feff717-ea0f-46d6-8611-7749531120b9": 
-      - "?shader0 | GMShader | 2389a106-55fa-4803-b912-540a27c7213b | 35141301-39b3-4451-9eb1-3939f45792b3"
+  - "shaders | GMShader | 03fb296d-e804-4c65-8a06-85322b11e463 | 0feff717-ea0f-46d6-8611-7749531120b9": []
   - "fonts | GMFont | 0ced4422-3b9a-4621-ad10-611712a5e274 | 430d7870-997e-49bf-926e-c90398540212": []
   - "timelines | GMTimeline | 88cfae89-1f85-44ae-8f85-26cded02c347 | 851e3f57-2fba-483e-bca8-fbe75f8db492": []
   - "objects | GMObject | 54399262-7923-4cc4-babe-2ff1cca4de50 | 1c28c5e7-b085-4760-9edd-18d8f7f31fd5": []
@@ -63,8 +60,6 @@ viewExtras:
     localisedFolderName: ResourceTree_Objects
   "67399bbd-8b94-44bf-a66e-90d48dcc0225": 
     localisedFolderName: ResourceTree_Tilesets
-  "738f44ba-63c9-4296-9fa1-13f2e9d123f1": 
-    name: "8c00da74-aba8-4489-ab92-a991376ea7ca-room"
   "79ab88d3-5ef9-4e19-8d77-360d87eba24a": 
     localisedFolderName: ResourceTree_Options
   "816a346a-48a0-43cf-b75b-1aa53f1ed840": 
