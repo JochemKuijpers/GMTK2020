@@ -1,8 +1,8 @@
 {
-    "id": "4992b4bb-3c89-4efd-936c-462d9aa45d92",
+    "id": "4f484c3d-802c-4e3e-943a-3053649ba15b",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "sound0",
+    "name": "farts",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,
