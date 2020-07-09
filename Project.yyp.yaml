@@ -1,9 +1,10 @@
 assets: 
   - "sprites | GMSprite | 248949f7-c571-476c-909c-32875aad5989 | 472b7472-e2a4-4adc-aa89-ae4651bab79e": 
       - "?sprite0 | GMSprite | e017e908-5087-4d45-beb6-9de73e67f9b0 | 24e08cde-5003-40a9-bcb6-3f9632323bb7"
-      - "?dsafdsafds | GMSprite | 1a95a0f8-2ca2-4324-89e7-9e8188e5c1f0 | f0d3482b-7c1b-404f-ac15-8c0afc55989c"
+      - "?hornet | GMSprite | 2906bb20-f57d-47fe-923c-26e7fa341ec1 | 74fc88e5-3973-41ea-961b-7e0f1787f4f0"
   - "tilesets | GMTileSet | 67399bbd-8b94-44bf-a66e-90d48dcc0225 | dad1c419-f209-4f47-ae6b-985085dcf354": []
-  - "sounds | GMSound | bb1a94e8-54a3-4247-a5a1-6477c917ca4b | 0cad2b05-8ca9-412a-845b-01336431e800": []
+  - "sounds | GMSound | bb1a94e8-54a3-4247-a5a1-6477c917ca4b | 0cad2b05-8ca9-412a-845b-01336431e800": 
+      - "?shaw | GMSound | 51c403ba-b4bc-4f85-a09a-d6eb345c94c2 | fa367cc2-89f1-4597-bc88-e56473e6e38e"
   - "paths | GMPath | f74e4146-8836-4f95-b7c0-7f1f95defb4d | 6b5769d2-133c-4a97-92fd-52b48653c519": []
   - "scripts | GMScript | 3d72e6e6-f219-46c3-999c-e6ff510f6b14 | ec262a0b-d42c-49f1-ae11-f5565754916c": []
   - "shaders | GMShader | 03fb296d-e804-4c65-8a06-85322b11e463 | 0feff717-ea0f-46d6-8611-7749531120b9": []
@@ -16,7 +17,6 @@ assets:
   - "datafiles | GMIncludedFile | a189b86d-98b5-4cfc-9d9d-97aba243f6b8 | 0752c0b4-f235-46ce-8ee7-11f84338b5ed": []
   - "extensions | GMExtension | 3131637b-1270-462e-9281-34afa0209c3d | aff7fb9e-5305-425e-8f99-02d1b6c8ca56": []
   - "options | GMOptions | 79ab88d3-5ef9-4e19-8d77-360d87eba24a | 2fd522a9-3bb0-446f-9478-02f9734316f4": 
-      - "options\\html5\\options_html5.yy | GMHtml5Options | 75ac291e-7061-4bcb-8e8a-3b3545332d41 | 7df6b5cf-6c18-4b24-a405-48d62738ebdc"
       - "options\\mac\\options_mac.yy | GMMacOptions | f418569b-3bdd-4706-a0e4-364317f54032 | 5ab8f337-3749-402e-8ec5-624b9c5fbb22"
       - "options\\linux\\options_linux.yy | GMLinuxOptions | a9188620-a624-4a5a-83ae-a1b53faf038b | 9237edc4-824b-4754-a808-b1f11ed4f9bc"
       - "options\\windows\\options_windows.yy | GMWindowsOptions | cc98d028-7bdd-4680-85f3-c87a7baa481e | 25149082-a8c7-469d-bc52-cd7f3a1e7749"
