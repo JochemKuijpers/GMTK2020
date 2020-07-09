@@ -1,6 +1,7 @@
 assets: 
   - "sprites | GMSprite | 248949f7-c571-476c-909c-32875aad5989 | 472b7472-e2a4-4adc-aa89-ae4651bab79e": 
       - "?sprite0 | GMSprite | e017e908-5087-4d45-beb6-9de73e67f9b0 | 24e08cde-5003-40a9-bcb6-3f9632323bb7"
+      - "?maybe | GMSprite | 241a24d8-6ddc-4838-8155-96ebc899ed1d | d29d075a-b338-442d-b628-ff1ab9e31510"
       - "?dsafdsafds | GMSprite | 1a95a0f8-2ca2-4324-89e7-9e8188e5c1f0 | f0d3482b-7c1b-404f-ac15-8c0afc55989c"
   - "tilesets | GMTileSet | 67399bbd-8b94-44bf-a66e-90d48dcc0225 | dad1c419-f209-4f47-ae6b-985085dcf354": []
   - "sounds | GMSound | bb1a94e8-54a3-4247-a5a1-6477c917ca4b | 0cad2b05-8ca9-412a-845b-01336431e800": []
