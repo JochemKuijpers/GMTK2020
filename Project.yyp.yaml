@@ -17,6 +17,7 @@ assets:
   - "datafiles | GMIncludedFile | a189b86d-98b5-4cfc-9d9d-97aba243f6b8 | 0752c0b4-f235-46ce-8ee7-11f84338b5ed": []
   - "extensions | GMExtension | 3131637b-1270-462e-9281-34afa0209c3d | aff7fb9e-5305-425e-8f99-02d1b6c8ca56": []
   - "options | GMOptions | 79ab88d3-5ef9-4e19-8d77-360d87eba24a | 2fd522a9-3bb0-446f-9478-02f9734316f4": 
+      - "options\\html5\\options_html5.yy | GMHtml5Options | 75ac291e-7061-4bcb-8e8a-3b3545332d41 | 7df6b5cf-6c18-4b24-a405-48d62738ebdc"
       - "options\\mac\\options_mac.yy | GMMacOptions | f418569b-3bdd-4706-a0e4-364317f54032 | 5ab8f337-3749-402e-8ec5-624b9c5fbb22"
       - "options\\linux\\options_linux.yy | GMLinuxOptions | a9188620-a624-4a5a-83ae-a1b53faf038b | 9237edc4-824b-4754-a808-b1f11ed4f9bc"
       - "options\\windows\\options_windows.yy | GMWindowsOptions | cc98d028-7bdd-4680-85f3-c87a7baa481e | 25149082-a8c7-469d-bc52-cd7f3a1e7749"
