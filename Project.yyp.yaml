@@ -1,0 +1,78 @@
+assets: 
+  - "sprites | GMSprite | 248949f7-c571-476c-909c-32875aad5989 | 472b7472-e2a4-4adc-aa89-ae4651bab79e": []
+  - "tilesets | GMTileSet | 67399bbd-8b94-44bf-a66e-90d48dcc0225 | dad1c419-f209-4f47-ae6b-985085dcf354": []
+  - "sounds | GMSound | bb1a94e8-54a3-4247-a5a1-6477c917ca4b | 0cad2b05-8ca9-412a-845b-01336431e800": []
+  - "paths | GMPath | f74e4146-8836-4f95-b7c0-7f1f95defb4d | 6b5769d2-133c-4a97-92fd-52b48653c519": []
+  - "scripts | GMScript | 3d72e6e6-f219-46c3-999c-e6ff510f6b14 | ec262a0b-d42c-49f1-ae11-f5565754916c": []
+  - "shaders | GMShader | 03fb296d-e804-4c65-8a06-85322b11e463 | 0feff717-ea0f-46d6-8611-7749531120b9": []
+  - "fonts | GMFont | 0ced4422-3b9a-4621-ad10-611712a5e274 | 430d7870-997e-49bf-926e-c90398540212": []
+  - "timelines | GMTimeline | 88cfae89-1f85-44ae-8f85-26cded02c347 | 851e3f57-2fba-483e-bca8-fbe75f8db492": []
+  - "objects | GMObject | 54399262-7923-4cc4-babe-2ff1cca4de50 | 1c28c5e7-b085-4760-9edd-18d8f7f31fd5": []
+  - "rooms | GMRoom | 8a1ab5e6-b0c6-4146-9622-7ae5d1ee7901 | 92aedff4-663e-4885-be26-901b8eb59089": 
+      - "?room0 | GMRoom | 8c00da74-aba8-4489-ab92-a991376ea7ca | 2794b26f-7017-42c8-b287-c3a37ebb543c"
+  - "notes | GMNotes | 816a346a-48a0-43cf-b75b-1aa53f1ed840 | 258c520e-a64c-4c5c-8b2d-3b1c0ffe193e": []
+  - "datafiles | GMIncludedFile | a189b86d-98b5-4cfc-9d9d-97aba243f6b8 | 0752c0b4-f235-46ce-8ee7-11f84338b5ed": []
+  - "extensions | GMExtension | 3131637b-1270-462e-9281-34afa0209c3d | aff7fb9e-5305-425e-8f99-02d1b6c8ca56": []
+  - "options | GMOptions | 79ab88d3-5ef9-4e19-8d77-360d87eba24a | 2fd522a9-3bb0-446f-9478-02f9734316f4": 
+      - "options\\html5\\options_html5.yy | GMHtml5Options | 75ac291e-7061-4bcb-8e8a-3b3545332d41 | 7df6b5cf-6c18-4b24-a405-48d62738ebdc"
+      - "options\\mac\\options_mac.yy | GMMacOptions | f418569b-3bdd-4706-a0e4-364317f54032 | 5ab8f337-3749-402e-8ec5-624b9c5fbb22"
+      - "options\\linux\\options_linux.yy | GMLinuxOptions | a9188620-a624-4a5a-83ae-a1b53faf038b | 9237edc4-824b-4754-a808-b1f11ed4f9bc"
+      - "options\\windows\\options_windows.yy | GMWindowsOptions | cc98d028-7bdd-4680-85f3-c87a7baa481e | 25149082-a8c7-469d-bc52-cd7f3a1e7749"
+  - "configs | GMConfig | 08742e89-c6f9-4ee3-8f5a-4b90112c7c42 | 461b97b5-5888-40a4-b3f4-f56ccf211f6d": []
+projectExtras: 
+  IsDnDProject: false
+  configs: []
+  id: "7e7f84cc-7f0f-431d-970c-253bf96cede4"
+  modelName: GMProject
+  mvc: "1.0"
+  option_ecma: false
+  parentProject: 
+    alteredResources: 
+      - Key: "ed6a955d-5826-4f98-a450-10b414266c27"
+        Value: 
+          configDeltas: 
+            - inherited
+          id: "6e003775-7398-4d07-b216-8e47111004bc"
+          resourcePath: "options\\main\\options_main.yy"
+          resourceType: GMMainOptions
+    hiddenResources: []
+    id: "18e9b2ad-aa0d-4694-8a0d-4fb3a5777add"
+    modelName: GMProjectParent
+    mvc: "1.0"
+    projectPath: "${base_project}"
+  tutorial: ""
+viewExtras: 
+  "03fb296d-e804-4c65-8a06-85322b11e463": 
+    localisedFolderName: ResourceTree_Shaders
+  "08742e89-c6f9-4ee3-8f5a-4b90112c7c42": 
+    localisedFolderName: ResourceTree_Configs
+  "0ced4422-3b9a-4621-ad10-611712a5e274": 
+    localisedFolderName: ResourceTree_Fonts
+  "248949f7-c571-476c-909c-32875aad5989": 
+    localisedFolderName: ResourceTree_Sprites
+  "3131637b-1270-462e-9281-34afa0209c3d": 
+    localisedFolderName: ResourceTree_Extensions
+  "3d72e6e6-f219-46c3-999c-e6ff510f6b14": 
+    localisedFolderName: ResourceTree_Scripts
+  "54399262-7923-4cc4-babe-2ff1cca4de50": 
+    localisedFolderName: ResourceTree_Objects
+  "67399bbd-8b94-44bf-a66e-90d48dcc0225": 
+    localisedFolderName: ResourceTree_Tilesets
+  "79ab88d3-5ef9-4e19-8d77-360d87eba24a": 
+    localisedFolderName: ResourceTree_Options
+  "816a346a-48a0-43cf-b75b-1aa53f1ed840": 
+    localisedFolderName: ResourceTree_Notes
+  "88cfae89-1f85-44ae-8f85-26cded02c347": 
+    localisedFolderName: ResourceTree_Timelines
+  "8a1ab5e6-b0c6-4146-9622-7ae5d1ee7901": 
+    localisedFolderName: ResourceTree_Rooms
+  "a189b86d-98b5-4cfc-9d9d-97aba243f6b8": 
+    localisedFolderName: ResourceTree_IncludedFiles
+  "bb1a94e8-54a3-4247-a5a1-6477c917ca4b": 
+    localisedFolderName: ResourceTree_Sounds
+  "f74e4146-8836-4f95-b7c0-7f1f95defb4d": 
+    localisedFolderName: ResourceTree_Paths
+viewRoot: 
+  id: "473f3916-defb-41f9-925a-3a60859416ac"
+  mvc: "1.1"
+  resourceID: "574c603c-abed-4b8b-9c5b-ce5c963607b0"
